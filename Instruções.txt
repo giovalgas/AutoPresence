@@ -1,0 +1,6 @@
+1 - Baixar python (https://www.python.org/downloads)
+2 - Botar o "chromedriver.exe" dentro da pasta "C:\Program Files (x86)" (TEM QUE TER O GOOGLE CHROME INSTALADO)
+3 - Mudar o "ead" para inglês
+4 - Executar o arquivo "setup.bat"
+5 - Executar o arquivo "start.bat"
+6 - Ser feliz.
